@@ -8,7 +8,7 @@
 * Enter project with "cd coverages" command
 * "composer install" command and then enter
 * "source activate .bash_profile" command to activate phpunit command
-* "phpunit --colors tests" to activate unit tests
+* "phpunit --colors tests" to activate unit tests - tests will take a couple minutes to run as thousands of assertions are taking place
 * "php src/app.php" to activate example vehicles and test coverages
 
 #### Description of project
