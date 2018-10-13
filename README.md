@@ -1,9 +1,9 @@
-###PHP Challenge
-####Purpose
+### PHP Challenge
+#### Purpose
 * Test a developers ability to create a class along with supporting methods.
 * Test a developers ability to create unit tests to validate each methods logic.
 
-####Getting started
+#### Getting started
 * Clone project into terminal via "git clone {project Url}" command
 * Enter project with "cd coverages" command
 * "composer install" command and then enter
