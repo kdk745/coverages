@@ -37,7 +37,7 @@ class ValidateCoverages
 
 
   public function validateBaseWarrantyExpiration($vehicleYear, $baseWarrantyTerm, $coverageTerm) {
-    // if 12 months old car, 36 month base - 26 months left on baseWarranty
+    // if 12 months old car, 36 month base - 24 months left on baseWarranty
     // if test coverage term is 3 months, it will expire before the 26 months is over
     // test coverage term must be greater than remaining term on base warranty for it to apply
 
